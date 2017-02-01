@@ -6,14 +6,48 @@
     android1:layout_height="match_parent"
     android1:orientation="vertical">
 
-    <Button
-        android1:id="@+id/main_button_about"
-        android1:layout_width="match_parent"
-        android1:textColor="@color/colorPrimary"
-        android1:background="@color/colorAccent"
-        android1:text="@string/label_button_about"
-        android1:layout_height="wrap_content" />
+    <RelativeLayout style="@style/MyActionBar">
 
+        <TextView
+            style="@style/MyActionBarTitle"
+            android:layout_centerInParent="true"
+            android:text="Home" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal">
+
+        <Button
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:onClick="onClick_about"
+            android:id="@+id/home_button_aboutus"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:text="About Us" />
+
+        <Button
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:text="Products" />
+
+    </LinearLayout>
+
+    <!--<Button-->
+    <!--android1:id="@+id/main_button_about"-->
+    <!--android1:layout_width="wrap_content"-->
+    <!--android1:textColor="@color/colorPrimary"-->
+    <!--android1:background="@color/colorAccent"-->
+    <!--android1:text="@string/label_button_about"-->
+    <!--android1:layout_height="wrap_content" />-->
 
 
 </LinearLayout>

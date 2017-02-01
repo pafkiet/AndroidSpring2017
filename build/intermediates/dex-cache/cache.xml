@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="9da898333360534a4d7ec372e659cfb63b4adb83">
+        sha1="48047c73277471e96d57595399908b1775fe7f40">
         <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d8530af6be86a11c7e0290e2c5b90124cb230ab3/classes.dex" />
     </item>
     <item
@@ -66,15 +66,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_7c2b507318abf6526aff79e4e1c46465db89f307/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -84,11 +75,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_7c2b507318abf6526aff79e4e1c46465db89f307/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c53a17a426611e1ba9f8d4f6bdb80983fbd2a418">
+        sha1="dbbbaa3dc7b6c6cab41d7609e3cbc2a6a2474935">
         <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ed9dd4402cd1f18a40285c2ed223c4972469ad34/classes.dex" />
     </item>
     <item
