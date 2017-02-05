@@ -3,102 +3,57 @@
 
     <item
         is-multidex="true"
-        jar="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_a09c79930db11f3b1d892ae024b1ada6ab06a38f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_f6d0b8a31922e757f3ddb73a9608521426ef68da/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_86ba8cb693762d1f86e6c99703f9c7f4eafcdd81/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="34cc6e8c5d3bf4974c1e03ee448c0de7581cb585">
-        <dex dex="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_11ced7f5888983428528743e22c1ac248bb008ad/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_ed1e9c70ca55117affb0360959a8f137f235e4f4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a8ddb909649d16253bdea54f55e7a9929466938b">
-        <dex dex="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_35fa22e8e525e61109a033c6797017e5032a06e2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_5f9a69de7787c50732bf4fab90e95567bf9708bc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_4ad9c805647879598ef382afffc8ab4870ee8b46/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_602be539248062429b01bf63e92599c078f14b9a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_ea9b0a95e01b26913efc9aa4e675edf7e834152c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jar="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_8510eaab6ff3d0904ce085483a739e6083bd320d/classes.dex" />
+        <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_257bc961f63813405999d3004e5977209bd74f3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_044a929a9c1e5331602af16a37ae4141f386656c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_de04ab15fa1925c2616a281e6e88a79c92d7e679/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_1a5788f30020a8259474feeba5ea8f5cbda192f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48047c73277471e96d57595399908b1775fe7f40">
+        <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d8530af6be86a11c7e0290e2c5b90124cb230ab3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_32f7b3e4137ad8a812dbe88ea291ca807e916870/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -107,7 +62,52 @@
         optimize="true"
         revision="25.0.2"
         sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_6f5be8a2a99bf98ca6c365f50357449956c8d62b/classes.dex" />
+        <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_6f5be8a2a99bf98ca6c365f50357449956c8d62b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_1fa9dc76c225cc0201f80a46001e483e919a7ea3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_7c2b507318abf6526aff79e4e1c46465db89f307/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbbbaa3dc7b6c6cab41d7609e3cbc2a6a2474935">
+        <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ed9dd4402cd1f18a40285c2ed223c4972469ad34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_da7915a7018f6d0271aec38a9a42c11c3d20ebf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/khawar/pafkiet/project/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_991403f9a0dcc26ae31d865fb0cb62d0b5e6e4df/classes.dex" />
     </item>
 
 </items>

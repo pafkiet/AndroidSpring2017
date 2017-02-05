@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidSpring2017</string>
+    <string name="label_button_about">About Us</string>
 </resources>
