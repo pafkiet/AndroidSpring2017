@@ -27,7 +27,7 @@
             android:text="About Us" />
 
         <Button
-
+            android:onClick="onClick_products"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
