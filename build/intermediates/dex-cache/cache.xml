@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="1e11a6e84ebb3908f249490773f90e91d573a8ed">
+        sha1="be07ee1d3e567d73eff6d57fc868213c9b7d44ad">
         <dex dex="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5b81c66b3a8bfa7350e06ed22d3704ba4118c137/classes.dex" />
     </item>
     <item
@@ -79,7 +79,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="2739bda308491feaf648445b16e1ecfb702c5408">
+        sha1="4a04724c244e8e2592952d8cff0507236f8e7019">
         <dex dex="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a474394143db5a9f3b4e92840d8f4f74edad63d2/classes.dex" />
     </item>
     <item

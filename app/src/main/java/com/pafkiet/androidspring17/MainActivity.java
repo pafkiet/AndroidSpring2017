@@ -28,4 +28,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, ContactActivity.class);
         startActivity(intent);
     }
+
+    public void onClick_products(View v) {
+        Intent intent = new Intent(this, ProductListActivity.class);
+        startActivity(intent);
+    }
 }
