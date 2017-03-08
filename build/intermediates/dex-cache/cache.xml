@@ -12,6 +12,33 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_40919d8946055a946db1f081ea0cf3d55e81e3c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_ea6d089f4f21fc9b9b66b57b51af4088dd736666/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_6d16037b154e8226bbb7d51ef8a9a9dcbc4e185a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -48,6 +75,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_83c83d1df9344aa49e11aa248e6c1b85eae30f9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/xorsat/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
         jumboMode="true"
         optimize="true"
@@ -79,8 +115,26 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="4a04724c244e8e2592952d8cff0507236f8e7019">
+        sha1="bd2985ac4b030b3ccbe542c3c7f5ca7b74de572b">
         <dex dex="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a474394143db5a9f3b4e92840d8f4f74edad63d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_a38182ebd63ea172aace83c7e3ace5c9ba5a3fca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_5495d313ff8b374911182f1b5c1c27234ec73a65/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -99,6 +153,15 @@
         revision="25.0.2"
         sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
         <dex dex="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_a26f37c1a3f107c92451dd7e76a2a8a84e101792/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/xorsat/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_6f6a60e27856acd6f9d4cebb6d1bc9104f50907d/classes.dex" />
     </item>
     <item
         is-multidex="true"
