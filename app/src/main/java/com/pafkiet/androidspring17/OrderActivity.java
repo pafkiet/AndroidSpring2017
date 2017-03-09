@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
+import android.support.v4.app.ActivityCompat;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -81,8 +82,9 @@ public class OrderActivity extends Activity {
     public void onClick_order(View view) {
         if (isValidate()) {
             savePreferences();
-            Intent mIntent = new Intent(this, ThanksActivity.class);
-            startActivity(mIntent);
+            startActivity(new Intent(this, MainActivity.class));
+            startActivity(new Intent(this, ThanksActivity.class));
+            ActivityCompat.finishAffinity(this);
         }
     }
 
