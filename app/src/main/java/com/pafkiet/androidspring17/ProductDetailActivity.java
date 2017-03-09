@@ -35,9 +35,8 @@ public class ProductDetailActivity extends Activity {
     }
 
     public void onClick_order(View v) {
-        Intent mIntent = new Intent(this, OrderActivity.class);
         OrderActivity.item = mProduct;
-        startActivity(mIntent);
+        startActivity(new Intent(this, OrderActivity.class));
     }
 
     public void onClick_share(View v) {
@@ -50,5 +49,6 @@ public class ProductDetailActivity extends Activity {
         sendIntent.setType("text/plain");
         startActivity(Intent.createChooser(sendIntent,
                 "Share " + mProduct.getProduct_name()));
+
     }
 }
