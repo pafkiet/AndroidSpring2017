@@ -24,6 +24,11 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void onClick_map(View v) {
+        Intent intent = new Intent(this, BranchActivity.class);
+        startActivity(intent);
+    }
+
     public void onClick_contact(View v) {
         Intent intent = new Intent(this, ContactActivity.class);
         startActivity(intent);
