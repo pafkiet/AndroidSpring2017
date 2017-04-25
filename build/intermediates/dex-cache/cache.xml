@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/develop/android/projects/AndroidSpring2017/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="b5b8b0dabae000c03ac162eafe5a64ab3a5712a2">
-        <dex dex="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_11ced7f5888983428528743e22c1ac248bb008ad/classes.dex" />
+        revision="25.0.0"
+        sha1="19e21a83dbe8f3ec2581adcb4127eb2abe17b8e3">
+        <dex dex="/develop/android/projects/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_068225280e4a90f113d44a7516b5b57e21898f7b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/develop/android/projects/AndroidSpring2017/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
+        revision="25.0.0"
         sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/Users/khawar/pafkiet/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_35fa22e8e525e61109a033c6797017e5032a06e2/classes.dex" />
+        <dex dex="/develop/android/projects/AndroidSpring2017/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8825ba9b039ee165c2f72146665061e92b7f88cd/classes.dex" />
     </item>
 
 </items>
