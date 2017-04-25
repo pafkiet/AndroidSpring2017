@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.pafkiet.androidspring17">
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <uses-feature
         android:glEsVersion="0x00020000"
         android:required="true" />
@@ -23,16 +26,31 @@
             </intent-filter>
         </activity>
         <activity android:name=".ContactActivity" />
-        <activity android:name=".ThanksActivity"/>
-        <activity android:name=".ProductListActivity"/>
-        <activity android:name=".ProductDetailActivity"/>
-        <activity android:name=".OrderActivity"/>
-        <activity android:name=".MainActivity"/>
+        <activity android:name=".ThanksActivity" />
+        <activity android:name=".ProductListActivity" />
+        <activity android:name=".ProductDetailActivity" />
+        <activity android:name=".OrderActivity" />
+        <activity android:name=".MainActivity" />
         <activity android:name=".BranchActivity" />
         <activity android:name=".BranchDetailActivity" />
+
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyDUYDUPrJHipiCd9v5vmfISqj8gnmcwB6w" />
+
+        <service android:name=".MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".MyFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+
+
     </application>
 
 </manifest>
